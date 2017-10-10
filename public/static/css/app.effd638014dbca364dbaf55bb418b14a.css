@@ -1,4 +1,17 @@
 
+
+
+
+
+
+
+
+/* 白色背景太单调了，我们来点背景 */
+html {
+	color: rgb(222,222,222); background: #202020;
+}
+
+
 #app[data-v-288975d1] {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -53,4 +66,4 @@ html[data-v-b76f4cbc] {
   box-sizing: border-box;
 }
 
-/*# sourceMappingURL=app.67c6f66113b2bb3832935b8f114dc073.css.map*/
+/*# sourceMappingURL=app.effd638014dbca364dbaf55bb418b14a.css.map*/
