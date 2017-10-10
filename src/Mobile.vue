@@ -23,11 +23,9 @@
         enableHtml: false,
         fullStyle: [
           `/*
-* Inspired by http://strml.net/
-* 大家好，我是方方
-* 二月了，好多公司都在招聘
-* 你是不是也在准备简历呀。
-* 说做就做，我也来写一份简历！
+* 大家好，我是康行天下
+* 看到别人的简历都那么好,
+* 我也应该提前准备和打磨自己的简历了!
 */
 
 /* 首先给所有元素加上过渡效果 */
@@ -128,36 +126,34 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `康行天下
 ----
 
-资深前端工程师，资深前端讲师
-现在在 [饥人谷](http://jirengu.com) 教前端课程。
+国内某211高校本科及硕士，乱七八糟的看到什么学什么。
+
+目前主攻深度学习和机器学习。
 
 技能
 ----
 
-* 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
+* Java/Python开发
+* 机器学习基本概念
+* 深度学习基本概念
 
-工作经历
+兴趣爱好
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+1. 打球(各种球,能打就行)
+2. linux
+3. Android APP
 
 链接
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
+* [GitHub](https://github.com/makefile)
+* [我的博客](https://www.cnblogs.com/makefile)
 
-> 如果你喜欢这个效果，
-Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+> 如有意愿, 请联系我 mailto: yongkangisgreat #at# gmail.com！
 
 `
       }
@@ -248,5 +244,4 @@ Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你
   *{
     box-sizing: border-box;
   }
-
 </style>
